@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    width: 1200px;
+    padding: 10px 0px;
+    background-color: white;
+}
+.post-item{
+    width: 33.33333%;
+    color: white;
+    margin-right: 30px;
+    border: 1px solid grey;
+    border-radius: 1px;
+}
+img{
+    width: 100%;
+
+}
+span{
+    padding: 2px 10px;
+    background-color: green;
+    margin: 15px;
+    display: inline-block;
+    border-radius: 3px;
+}
+/*span chỉ chọn màu nền chữ đó, các p khác chọn cả dòng*/
+h2{
+    color: #5584ac;
+}
+.content{
+    margin: 15px;
+}
+.time{
+    font-style: italic;
+margin: 10px 0px;
+}
